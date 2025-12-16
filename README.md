@@ -46,11 +46,6 @@ El enfoque fue asegurar la confiabilidad de la API y contribuir a la eficiencia 
 
 ---
 
-## 📸 Evidencia visual
-*(Aquí se pueden incluir capturas de la ejecución de las pruebas o ejemplos de respuestas de la API)*
-
----
-
 ## 🔜 Próximos pasos
 - Ampliar cobertura de endpoints
 - Agregar validaciones más avanzadas
