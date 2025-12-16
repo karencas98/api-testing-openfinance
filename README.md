@@ -25,3 +25,9 @@ Asegurar la calidad, estabilidad y confiabilidad de APIs utilizadas en sistemas 
 
 ## 👩‍💻 Sobre mí
 Soy QA en formación con experiencia en soporte técnico y análisis funcional en sistemas críticos. Me interesa la automatización, la calidad del software y el ecosistema DevOps.
+
+## 🔜 Próximos pasos
+- Automatización de formularios complejos
+- Integración con CI/CD
+- Ampliar cobertura de casos negativos
+
